@@ -1,0 +1,73 @@
+.ikony{
+    display: inline;
+    justify-content: space-around;
+}
+
+.projekt{
+    background-color: rgb(159, 159, 159);
+    padding: 8px;
+    text-align: right;
+
+}
+.nazwa{
+    color: rgb(116, 114, 114);
+}
+footer{
+    background-color: rgb(61, 60, 60);
+}
+
+.naglowek{
+    border-bottom: solid red;
+
+}
+
+h3{
+    color: white;
+    margin-bottom: 0px;
+}
+
+li{
+    list-style: none;
+    color: rgb(137, 137, 137);
+}
+
+.pkt{
+    display: flex;
+    justify-content: space-around;
+    color: rgb(137, 137, 137);
+}
+a{
+    text-decoration: none;
+    list-style: none;
+    color: rgb(137, 137, 137);
+}
+
+a:hover{
+    text-decoration: none;
+    list-style: none;
+    padding-left: 10px;
+    color: rgb(116, 114, 114);
+    border-bottom: 5px;
+}
+
+ul{
+    padding-left: 0px;
+    color: rgb(137, 137, 137);
+}
+.firma{
+    width: 180px;
+}
+
+.pomoc{
+    width: 180px;
+}
+
+.sklep{
+    width: 180px;
+}
+
+.media{
+    width: 180px;
+    
+}
+
